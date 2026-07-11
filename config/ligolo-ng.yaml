@@ -1,0 +1,12 @@
+agent:
+  00155d168601:
+    autobind: true
+    interface: ligolo
+interface:
+  ligolo:
+    routes:
+      - 192.168.2.0/24
+web:
+  enabled: false
+  enableui: false
+  listen: 127.0.0.1:8080
