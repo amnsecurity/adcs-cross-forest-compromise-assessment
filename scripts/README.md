@@ -5,7 +5,7 @@ third-party tools that were downloaded and used (e.g. `winrmexec`, `certipy`,
 `bloodyAD`, `impacket`, `SharpHound`, `nc.exe`, `GodPotato`, `ligolo` agent/binary).
 
 All scripts here are sanitized: no real client identifiers, hostnames, IP addresses,
-usernames, passwords, hashes, or flags are included. Replace the placeholders at the
+usernames, passwords, hashes, or sensitive proof artifacts are included. Replace the placeholders at the
 top of each script with your engagement values.
 
 ## Scripts
